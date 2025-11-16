@@ -19,7 +19,6 @@ To analyze marketing performance, identify high-performing channels, track reven
 ## 📁 Files Included
 
 - `Cleaned_Ecomm_Data.csv` – Cleaned dataset with marketing campaigns, revenue, discounts, etc.
-- `Excel_ROI_Template_With_Formulas.xlsx` – Excel sheet for ROI and financial metrics
 - `PowerBI_Dashboard.pbix` – Power BI dashboard file
 - `README.md` – This file
 
@@ -81,6 +80,4 @@ To analyze marketing performance, identify high-performing channels, track reven
 ---
 
 ## 📌 Author
-
-**Avengers**  
-Aspiring Data Analyst | https://www.linkedin.com/in/apoorwa-soni/ | apoorwasoni02@gmail.com
+ Data Analyst | https://www.linkedin.com/in/apoorwa-soni/ | apoorwasoni02@gmail.com
